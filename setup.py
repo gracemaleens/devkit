@@ -7,9 +7,8 @@ setup(
     install_requires=[
         'Click'
     ],
-    entry_points={
-        'console_scripts': [
-            'devkit = devkit:devkit'
-        ]
-    }
+    entry_points='''
+	[console_scripts]
+	devkit=devkit:devkit
+    ''',
 )
