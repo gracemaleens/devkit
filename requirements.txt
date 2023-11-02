@@ -1,2 +1,1 @@
 click==8.1.3
--e git+ssh://git@github.com/gracemaleens/devkit.git@b8c0710e2fc9e7065ebc58cc3736ef13b98ff562#egg=devkit
